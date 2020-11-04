@@ -241,7 +241,7 @@ body {
   display: flex;    
   align-items: center;
   background-color: #bbb;    
-  margin: 1em;    
+  margin: .8em;    
 }
 
 .nav-wrapper {
@@ -267,5 +267,5 @@ body {
 }
 
 .title {
-  margin: .5em;
+  margin: .5em, 1em, .5em, .5em;
 }
